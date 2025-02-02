@@ -1,4 +1,3 @@
 function showAlert() {
-    alert("Hello! This is a simple website.");
+    alert("Thank you for visiting my website! Stay tuned for more updates.");
 }
-
