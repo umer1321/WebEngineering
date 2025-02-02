@@ -1,3 +1,3 @@
 function showAlert() {
-    alert("Thank you for visiting my website! Stay tuned for more updates.");
+    alert("Thank you for exploring my portfolio. Let's connect!");
 }
